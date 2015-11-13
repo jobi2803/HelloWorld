@@ -7,8 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Hello world!</name>
-
+    <name>Glücklicher Schüler</name>
     <description>
         Erstes einfaches Beispiel for eine Phonegap App 
     </description>
